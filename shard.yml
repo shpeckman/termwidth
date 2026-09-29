@@ -1,8 +1,11 @@
+# shard.yml
 name: termwidth
 version: 0.1.0
 
 authors:
-  - shpeckman <geelenrobin@proton.me>
+  - shpeckman
+
+repository: "https://github.com/shpeckman/termwidth"
 
 crystal: '>= 1.21.0'
 

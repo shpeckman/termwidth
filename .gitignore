@@ -1,3 +1,4 @@
+# .gitignore
 /.docs/
 /docs/
 /lib/
@@ -5,3 +6,5 @@
 /.shards/
 /shard.lock/
 *.dwarf
+
+tool/ucd/
